@@ -12,10 +12,10 @@ inLanguage: ro
 app_links: []
 isBasedOnUrl: 'http://www.saatchiart.com/art/Photography-tri-angle-1/658471/1802308/view'
 title: 'Saatchi Art Artist: Konrad Pitala; Color 2012 Photography "*tri*angle* #1"'
-datePublished: '2016-05-15T19:17:57.256Z'
-dateModified: '2016-05-15T19:17:46.406Z'
-starred: false
+datePublished: '2016-05-15T20:28:57.347Z'
+dateModified: '2016-05-15T20:28:57.001Z'
 sourcePath: _posts/2016-05-15-saatchi-art-artist-konrad-pitala-color-2012-photography.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
