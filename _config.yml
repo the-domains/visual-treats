@@ -1,0 +1,14 @@
+layout_spectrum: 0.15168197127059102
+typography_spectrum: 0.831050407839939
+color:
+  brandStrength: 0.6826262383256108
+  lightness: 0.8165245002601296
+  saturation: 0.9182908667717129
+  rhythmicContrast: 0.978623368544504
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: Visual Treats
