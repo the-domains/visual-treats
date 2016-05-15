@@ -22,10 +22,10 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://society6.com/product/lines--dusty-overlay_print#1=45'
 title: lines / dusty overlay Art Print by Konrad Pitala
-datePublished: '2016-05-15T19:11:41.715Z'
-dateModified: '2016-05-15T18:47:39.005Z'
-starred: false
+datePublished: '2016-05-15T19:44:20.063Z'
+dateModified: '2016-05-15T19:44:19.571Z'
 sourcePath: _posts/2016-05-15-lines-dusty-overlay-art-print-by-konrad-pitala.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
