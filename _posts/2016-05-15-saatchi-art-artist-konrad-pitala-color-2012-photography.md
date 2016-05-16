@@ -6,8 +6,8 @@ isBasedOnUrl: 'http://www.saatchiart.com/art/Photography-tri-angle-1/658471/1802
 inLanguage: ro
 keywords: []
 description: 'Part of a triptych. Photographic artwork depicting the power of light, printed on metallic base paper (Epson HDR archival grade), mounted on a foam. Created by exposing the film in a light-leaking camera (Lomography Diana F+), then scanned in hi resolution &amp; digitally added graphic motive - triangles.'
-datePublished: '2016-05-16T20:42:18.522Z'
-dateModified: '2016-05-16T20:42:16.160Z'
+datePublished: '2016-05-16T20:44:19.382Z'
+dateModified: '2016-05-16T20:43:26.765Z'
 author:
   - name: ''
     url: ''
