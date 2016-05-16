@@ -1,15 +1,15 @@
-layout_spectrum: 0.15168197127059102
-typography_spectrum: 0.831050407839939
+layout_spectrum: 0.19811720959842205
+typography_spectrum: 0.0359006489161402
 color:
-  brandStrength: 0.6826262383256108
-  lightness: 0.8165245002601296
-  saturation: 0.9182908667717129
-  rhythmicContrast: 0.978623368544504
+  brandStrength: 0.12726496090181172
+  lightness: 0.47704445547424257
+  saturation: 0.985475986963138
+  rhythmicContrast: 0.2208399553783238
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#F2385A'
+    - '#F5A503'
+    - '#E9F1DF'
+    - '#4AD9D9'
+    - '#36B1BF'
 name: Visual Treats
 title: Visual Treats created and curated by Konrad Pitala
