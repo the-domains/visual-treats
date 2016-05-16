@@ -1,6 +1,6 @@
 name: Visual Treats by KO
 favicon: null
-layout_spectrum: 0.66554
+layout_spectrum: 0.89527
 typography_spectrum: 0.58431
 title: Visual Treats created and curated by Konrad Pitala
 cta:
@@ -22,8 +22,8 @@ color:
     - '#d61e54'
     - '#000000'
     - '#009ca2'
-  brandStrength: 0.5
+  brandStrength: 1
   lightness: 0.5
-  saturation: 1
-  rhythmicContrast: 0.75
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
