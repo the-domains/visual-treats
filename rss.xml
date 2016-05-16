@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Visual Treats created and curated by Konrad Pitala]]></title>
-        <description><![CDATA[Visual Treats created and curated by Konrad Pitala]]></description>
+        <title><![CDATA[Visual Treats created/ curated by Konrad Pitala]]></title>
+        <description><![CDATA[Visual Treats created/ curated by Konrad Pitala]]></description>
         <link>https://thegrid.ai/visual-treats/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 May 2016 21:09:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 May 2016 21:21:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/visual-treats/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[About]]></title>
-            <description><![CDATA[<p>Thank you for stopping by. If you'd like to learn more about me, please refer to Linkedin.com as this site is more about the work, rather than the person behind it.</p>]]></description>
-            <link>https://thegrid.ai/visual-treats/about/index.html</link>
-            <guid isPermaLink="false">14f05f6e-e533-474c-9574-7c9a37c1cc5d</guid>
-            <pubDate>Mon, 16 May 2016 21:09:44 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Joy is everywhere. Just dare to see it.]]></title>
             <description><![CDATA[<article><h1>Joy is everywhere. Just dare to see it.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6308b589-7138-48fe-b432-be1c2b24d387.jpg"></article>]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/6308b589-7138-48fe-b432-be1c2b24d387.jpg</link>
             <guid isPermaLink="false">6757b2d9-bc24-4d41-8d39-2270825f6d71</guid>
             <pubDate>Mon, 16 May 2016 20:42:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[About]]></title>
+            <description><![CDATA[<p>Thank you for stopping by. If you'd like to learn more about me, please refer to Linkedin.com as this site is more about the work, rather than the person behind it.</p>]]></description>
+            <link>https://thegrid.ai/visual-treats/about/index.html</link>
+            <guid isPermaLink="false">14f05f6e-e533-474c-9574-7c9a37c1cc5d</guid>
+            <pubDate>Mon, 16 May 2016 21:21:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[lines / dusty overlay Art Print by Konrad Pitala]]></title>
