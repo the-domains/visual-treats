@@ -2,10 +2,10 @@
 author: []
 related: []
 publisher:
-  url: 'https://society6.com'
   name: Society6
-  favicon: 'https://society6.com/favicon.ico'
   domain: society6.com
+  url: 'https://society6.com'
+  favicon: 'https://society6.com/favicon.ico'
 keywords:
   - gicl
   - pitala
@@ -22,13 +22,14 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://society6.com/product/lines--dusty-overlay_print#1=45'
 title: lines / dusty overlay Art Print by Konrad Pitala
-datePublished: '2016-05-15T19:44:20.063Z'
-dateModified: '2016-05-15T19:44:19.571Z'
+datePublished: '2016-05-16T20:44:36.778Z'
+dateModified: '2016-05-16T20:44:27.995Z'
 sourcePath: _posts/2016-05-15-lines-dusty-overlay-art-print-by-konrad-pitala.md
-starred: true
 inFeed: true
 hasPage: false
 inNav: false
+authors: []
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
