@@ -4,7 +4,7 @@
         <description><![CDATA[Visual Treats created/ curated by Konrad Pitala]]></description>
         <link>https://thegrid.ai/visual-treats/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 May 2016 21:21:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 May 2016 21:34:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/visual-treats/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Joy is everywhere. Just dare to see it.]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/6308b589-7138-48fe-b432-be1c2b24d387.jpg</link>
             <guid isPermaLink="false">6757b2d9-bc24-4d41-8d39-2270825f6d71</guid>
             <pubDate>Mon, 16 May 2016 20:42:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to get inspired?]]></title>
+            <description><![CDATA[<article><h1>How to get inspired?</h1><p>Go outside. Breath some fresh air. Change your point of view. Leave your comfort zone. Do things differently. Talk to people. Go running. Or walking.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/27131c2b-41d1-46cf-b36f-9807d63431a7.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/27131c2b-41d1-46cf-b36f-9807d63431a7.jpg</link>
+            <guid isPermaLink="false">1af5f32a-f13d-4503-bd9d-2221181d8c11</guid>
+            <pubDate>Mon, 16 May 2016 21:34:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[About]]></title>
@@ -40,13 +47,6 @@
             <link>http://www.riseart.com/art/from-a-kitchen-s-side-1-of-8-by-konrad-pitala</link>
             <guid isPermaLink="false">876387ca-620d-41c7-955f-c24fc096f972</guid>
             <pubDate>Mon, 16 May 2016 20:44:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to get inspired?]]></title>
-            <description><![CDATA[<article><h1>How to get inspired?</h1><p>Go outside. Breath some fresh air. Change your point of view. Leave your comfort zone. Do things differently. Talk to people. Go running. Or walking.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/27131c2b-41d1-46cf-b36f-9807d63431a7.jpg"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/27131c2b-41d1-46cf-b36f-9807d63431a7.jpg</link>
-            <guid isPermaLink="false">1af5f32a-f13d-4503-bd9d-2221181d8c11</guid>
-            <pubDate>Mon, 16 May 2016 20:43:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
