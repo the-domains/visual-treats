@@ -24,6 +24,6 @@ color:
     - '#009ca2'
   brandStrength: 0.5
   lightness: 0.5
-  saturation: 0.6875
+  saturation: 1
   rhythmicContrast: 1
 purpose: []
