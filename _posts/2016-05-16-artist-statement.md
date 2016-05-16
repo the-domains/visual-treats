@@ -5,10 +5,11 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Artist Statement
-datePublished: '2016-05-16T20:59:14.008Z'
-dateModified: '2016-05-16T20:58:59.641Z'
+datePublished: '2016-05-16T21:01:26.523Z'
+dateModified: '2016-05-16T20:59:23.023Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-16-artist-statement.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-16-artist-statement.md
 url: artist-statement/index.html
 _type: WebPage
 
