@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Artist Statement
-datePublished: '2016-05-16T21:01:26.523Z'
-dateModified: '2016-05-16T20:59:23.023Z'
+datePublished: '2016-05-16T21:02:54.956Z'
+dateModified: '2016-05-16T21:01:31.658Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-16-artist-statement.md
